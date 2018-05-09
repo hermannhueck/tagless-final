@@ -10,7 +10,6 @@ I also ported both approaches - OO/Java and FP/Haskell - to Scala.
 
 https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/
 
-The blog is a great intro to the subject, the clearest one I found on the web. I heavily recommend to read it if you not yet familiar with
-the subject.
+The blog is a great intro to the subject, the clearest one I found on the web. I heavily recommend to read it if you are not yet familiar with the subject.
 
 Hermann
